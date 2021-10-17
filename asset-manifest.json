@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dev_amith/static/css/main.9f4b8436.chunk.css",
-    "main.js": "/dev_amith/static/js/main.218cf420.chunk.js",
-    "main.js.map": "/dev_amith/static/js/main.218cf420.chunk.js.map",
+    "main.css": "/dev_amith/static/css/main.4db619c3.chunk.css",
+    "main.js": "/dev_amith/static/js/main.5a93f9c5.chunk.js",
+    "main.js.map": "/dev_amith/static/js/main.5a93f9c5.chunk.js.map",
     "runtime-main.js": "/dev_amith/static/js/runtime-main.6e28c452.js",
     "runtime-main.js.map": "/dev_amith/static/js/runtime-main.6e28c452.js.map",
     "static/js/2.f10364d3.chunk.js": "/dev_amith/static/js/2.f10364d3.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.2ff0b2b3.chunk.js": "/dev_amith/static/js/3.2ff0b2b3.chunk.js",
     "static/js/3.2ff0b2b3.chunk.js.map": "/dev_amith/static/js/3.2ff0b2b3.chunk.js.map",
     "index.html": "/dev_amith/index.html",
-    "static/css/main.9f4b8436.chunk.css.map": "/dev_amith/static/css/main.9f4b8436.chunk.css.map",
-    "static/js/2.f10364d3.chunk.js.LICENSE.txt": "/dev_amith/static/js/2.f10364d3.chunk.js.LICENSE.txt"
+    "static/css/main.4db619c3.chunk.css.map": "/dev_amith/static/css/main.4db619c3.chunk.css.map",
+    "static/js/2.f10364d3.chunk.js.LICENSE.txt": "/dev_amith/static/js/2.f10364d3.chunk.js.LICENSE.txt",
+    "static/media/blogging.7f28bb97.svg": "/dev_amith/static/media/blogging.7f28bb97.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6e28c452.js",
     "static/js/2.f10364d3.chunk.js",
-    "static/css/main.9f4b8436.chunk.css",
-    "static/js/main.218cf420.chunk.js"
+    "static/css/main.4db619c3.chunk.css",
+    "static/js/main.5a93f9c5.chunk.js"
   ]
 }
