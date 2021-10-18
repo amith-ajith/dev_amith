@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dev_amith/static/css/main.c35d61c4.chunk.css",
+    "main.css": "/dev_amith/static/css/main.12585b28.chunk.css",
     "main.js": "/dev_amith/static/js/main.3768e2a0.chunk.js",
     "main.js.map": "/dev_amith/static/js/main.3768e2a0.chunk.js.map",
     "runtime-main.js": "/dev_amith/static/js/runtime-main.77b45f65.js",
@@ -10,14 +10,14 @@
     "static/js/3.ba47f023.chunk.js": "/dev_amith/static/js/3.ba47f023.chunk.js",
     "static/js/3.ba47f023.chunk.js.map": "/dev_amith/static/js/3.ba47f023.chunk.js.map",
     "index.html": "/dev_amith/index.html",
-    "static/css/main.c35d61c4.chunk.css.map": "/dev_amith/static/css/main.c35d61c4.chunk.css.map",
+    "static/css/main.12585b28.chunk.css.map": "/dev_amith/static/css/main.12585b28.chunk.css.map",
     "static/js/2.2baa983a.chunk.js.LICENSE.txt": "/dev_amith/static/js/2.2baa983a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dev_amith/static/media/backgrnd.9c2a7a09.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.77b45f65.js",
     "static/js/2.2baa983a.chunk.js",
-    "static/css/main.c35d61c4.chunk.css",
+    "static/css/main.12585b28.chunk.css",
     "static/js/main.3768e2a0.chunk.js"
   ]
 }
