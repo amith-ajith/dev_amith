@@ -1,0 +1,15 @@
+.man_container{
+    
+    
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+    width: 100%;
+    height: 80vh;
+}
+#man-with-lap{
+    width: 85%;
+}
+
